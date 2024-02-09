@@ -1,8 +1,8 @@
 # Reversegam: a clone of Othello/Reversi
 import random
 import sys
-WIDTH = 10  # Board is 8 spaces wide
-HEIGHT = 10 # Board is 8 spaces tall
+WIDTH = 10  # Board is 10 spaces wide
+HEIGHT = 10 # Board is 10 spaces tall
 def drawBoard(board):
     # This function prints the board that it was passed. Returns None.
     print('  0123456789')
